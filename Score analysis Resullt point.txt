@@ -1,0 +1,7 @@
+1. Gender Distribution: Females outnumber males in the dataset.
+2. Parental Education Influence: Higher levels of parental education correlate with higher student performance.
+3. Impact of Marital Status: Marital status has little effect on students' scores.
+4. First Child Status: Most students are the first child in the family.
+5. Score Distribution: The majority of students have scores ranging from 50 to 75.
+6. Investigate Outliers:Look for outliers in scores (MathScore, ReadingScore, WritingScore) using box plots.
+7. Distribution of groups (A,B,C,D,E)
